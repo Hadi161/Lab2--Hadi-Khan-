@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0"
+    <title>my goals</title>
+    <style> 
+     
+     body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: 0%;
+        padding: 10pc;
+        background-color: aqua;
+        display: flex;
+        flex-direction: row;
+        
+     }
+       
+       header{
+        background-color: aqua;
+        font-size: medium;
+        text-align: center;
+        
+        
+       }
+
+       nav ul {
+        padding: 10pc;
+        display: flex;
+        margin: 0cqb;
+        justify-content: baseline;
+
+
+        
+        
+
+       }
+        nav li{
+            margin: 0ch;
+
+        }
+       
+    
+        main {
+            padding: 10px;
+        }
+    
+        
+        section{
+            margin-bottom: 10pc;
+        }
+        
+       
+       footer{
+        background-color: azure;
+        color: black;
+        font-size: medium;
+        
+       }
+     
+      
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Goals</h1>
+        <nav>
+            <ul>
+                <li<a href="college goals"</a>/li>
+                <li<a href="personalgoals"</a>li<
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="college goals">
+            <h2>college goals</h2>
+            <ul>
+                <li>Getting good grad</li>
+                <li>staying on task</li>
+            </ul>
+        </section>
+
+        <section id=" = personal goals">
+            <h2>personal goals</h2>
+            <ul>
+              <li>getting exercise</li>
+              <li> getting better sleep</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p> Hadi khan 2024</p>
+    </footer>
+</body>
+
+</html>
